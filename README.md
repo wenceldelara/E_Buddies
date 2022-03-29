@@ -5,3 +5,5 @@ _Contributors:_
 - Yvan Sinues
 - Samantha Ysabel Romero
 - Jessica Mae Cortez
+
+> Proceed to HiFi Prototype directory to begin
