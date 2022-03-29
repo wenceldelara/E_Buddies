@@ -10,7 +10,7 @@ HOW TO RUN AND EXECUTE:
 
 HIFI GUIDE:
 - The starting panels for our hifi design is located on the most left corner; named: "Starting Page 1" and "Starting Page 2" - choose 1.
-- Choose between either of the 2 and click the play button located on the upper right corner of the software.
+- Choose between either of the 2 and click the play button located on the upper right corner of Adobe XD.
 
 # Starting Page 1
 1. Click any part of the screen
@@ -44,4 +44,25 @@ HIFI GUIDE:
 # (A.1) Side Bar Icon
 - A side bar will pop up and show various options
 - The ff can be clicked:
-    > 
+    > Profile
+    > Verify Account
+    > Sign Out
+ 
+ # (A.2) MARITES Chatbot
+ - A chat bubble will apper on the screen
+ - The ff can be clicked:
+    > "How do I identify unreliable news or information?"    
+    
+# (B) Search Icon
+- The Search page will show up
+
+# (C) Notification Icon
+- The notification page will appear
+- The ff can be clicked:
+    > All Tab
+    > Mentions Tab
+
+# (D) Message Icon
+- The message page will appear
+- THe ff can be clicked:
+    > Maria-po's account
